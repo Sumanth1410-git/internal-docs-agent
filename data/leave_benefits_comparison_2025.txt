@@ -1,0 +1,49 @@
+# Employee Leave Benefits Comparison 2025
+
+## Sick Leave vs Vacation Days
+
+### Sick Leave
+- **Annual Allowance**: 12 days (increased from 10 days in 2024)
+- **Accrual Rate**: 1 day per month
+- **Rollover Policy**: Up to 5 days can roll over to next year
+- **Documentation**: Doctor's note required for 3+ consecutive days
+- **Family Care**: Can be used for immediate family member care
+- **Mental Health**: Includes mental health days and therapy appointments
+
+### Vacation Days (PTO)
+- **Annual Allowance**: 20 days for 0-5 years, 25 days for 5+ years
+- **Accrual Rate**: 1.67 days per month (20-day plan)
+- **Rollover Policy**: Up to 10 days can roll over to next year
+- **Advance Usage**: Can use up to 5 days before they're earned
+- **Blackout Periods**: No vacation during Q4 busy season (Nov 15 - Dec 31)
+- **Approval Required**: Manager approval needed 2 weeks in advance
+
+## Personal Days vs Floating Holidays
+
+### Personal Days
+- **Allowance**: 3 days annually
+- **Purpose**: Personal appointments, family obligations, religious observances
+- **Notice Required**: 24 hours advance notice
+- **Cannot be Rolled Over**: Must be used within calendar year
+
+### Floating Holidays
+- **Allowance**: 2 days annually
+- **Purpose**: Cultural or religious holidays not covered by company calendar
+- **Notice Required**: 1 week advance notice
+- **Scheduling**: Cannot be used on company mandatory work days
+
+## Maternity/Paternity Leave Comparison
+
+### Maternity Leave
+- **Duration**: 16 weeks paid leave
+- **Additional**: 6 weeks unpaid leave available
+- **Benefits**: Full health insurance coverage maintained
+- **Job Protection**: Guaranteed return to same or equivalent position
+
+### Paternity Leave
+- **Duration**: 8 weeks paid leave
+- **Additional**: 4 weeks unpaid leave available
+- **Flexibility**: Can be taken within 12 months of birth/adoption
+- **Benefits**: Full health insurance coverage maintained
+
+Updated: January 2025

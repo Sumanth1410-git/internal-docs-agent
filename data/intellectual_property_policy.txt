@@ -1,0 +1,74 @@
+# Intellectual Property Policy
+
+## Company IP Protection Framework
+
+### Ownership of Intellectual Property
+
+#### Work-Related IP
+- All work created during employment belongs to TechCorp
+- Includes code, designs, processes, documentation, and ideas
+- Applies to work done on company time or using company resources
+- Covers improvements to existing company IP
+
+#### Personal Projects
+- Employees may retain rights to personal projects if:
+  - Created entirely outside work hours
+  - No company resources used
+  - Not related to company business
+  - Disclosed and approved by management
+
+### Patent and Trade Secret Protection
+
+#### Patent Strategy
+- Submit invention disclosures for review within 30 days
+- Patent committee evaluates commercial potential
+- Company covers all patent filing and maintenance costs
+- Inventors receive recognition and potential bonuses
+
+#### Trade Secrets
+- Proprietary algorithms and methodologies
+- Customer lists and pricing information
+- Business strategies and market analysis
+- Technical specifications and source code
+
+### Copyright and Trademark Management
+
+#### Copyright Protection
+- All company content is automatically copyrighted
+- Proper attribution required for third-party content
+- Fair use guidelines for external materials
+- DMCA compliance for user-generated content
+
+#### Trademark Usage
+- TechCorp® and logos are registered trademarks
+- Guidelines for proper trademark usage
+- Partner and vendor trademark usage agreements
+- Brand protection and enforcement procedures
+
+### Confidentiality and Non-Disclosure
+
+#### Employee Obligations
+- Maintain confidentiality during and after employment
+- Return all company information upon termination
+- No disclosure of trade secrets to competitors
+- Report suspected IP theft or misuse
+
+#### Third-Party Agreements
+- NDAs required for all external partnerships
+- Due diligence for mergers and acquisitions
+- Vendor access limitations and monitoring
+- Customer data protection agreements
+
+### IP Violation Response
+- Immediate investigation of suspected violations
+- Legal action against willful infringement
+- Employee discipline for policy violations
+- Cooperation with law enforcement when required
+
+### Open Source Compliance
+- Approved open source licenses maintained
+- Legal review required for new open source usage
+- Contribution guidelines for company open source projects
+- License compatibility checking procedures
+
+Last Updated: January 2025 | Legal Review: June 2025

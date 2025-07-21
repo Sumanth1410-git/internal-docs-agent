@@ -1,0 +1,36 @@
+REMOTE WORK IT SETUP GUIDE
+
+REQUIRED EQUIPMENT:
+- Company laptop with VPN software pre-installed
+- External monitor (reimbursed up to $300)
+- Ergonomic keyboard and mouse
+- Headset for video calls
+- Reliable internet (minimum 25 Mbps download)
+
+NETWORK REQUIREMENTS:
+- Dedicated internet connection (no shared/public WiFi)
+- Router with WPA3 security enabled
+- Network name should not identify your employer
+- Guest network disabled for security
+- Regular router firmware updates
+
+HOME OFFICE SECURITY:
+- Private workspace away from common areas
+- Screen positioned away from windows/doors
+- Locking file cabinet for sensitive documents
+- Shredder for confidential papers
+- Security camera/recording device restrictions
+
+COMMUNICATION TOOLS:
+- Microsoft Teams for video calls and chat
+- Slack for team collaboration  
+- Company phone app for business calls
+- Calendar integration required
+- Status updates during core hours (10 AM - 3 PM)
+
+BACKUP PROCEDURES:
+- All work saved to company cloud storage
+- Local backups prohibited for security
+- Version control for collaborative documents
+- Daily sync verification required
+- Recovery procedures documented in IT portal

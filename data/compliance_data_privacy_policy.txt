@@ -1,0 +1,26 @@
+DATA PRIVACY & PROTECTION POLICY 2025
+
+Employee Responsibilities:
+- Protect customer and company data at all times
+- Use strong passwords and enable 2FA
+- Report data breaches immediately
+- Complete annual privacy training
+
+Data Classification:
+- Public: Company marketing materials
+- Internal: Employee directories, policies
+- Confidential: Financial data, customer info
+- Restricted: Legal documents, strategic plans
+
+Data Handling Rules:
+- No personal devices for confidential data
+- Encrypt all data in transit and at rest
+- Regular backups with 30-day retention
+- Secure disposal of physical documents
+
+Violations: May result in disciplinary action including termination
+Contact: privacy@company.com for questions
+Last Updated: January 15, 2025
+
+Employee Benefits:
+- Health insurance, retirement plans, paid time off

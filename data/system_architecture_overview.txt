@@ -1,0 +1,138 @@
+# System Architecture Overview 2025
+
+## Technology Stack and Infrastructure
+
+### Application Architecture
+
+#### Frontend Technologies
+- **Framework**: React 18.2 with TypeScript
+- **State Management**: Redux Toolkit with RTK Query
+- **UI Components**: Material-UI v5 with custom theming
+- **Build System**: Vite with ESBuild for development
+- **Testing**: Jest + React Testing Library + Cypress
+
+#### Backend Technologies
+- **Runtime**: Node.js 18 LTS with Express.js
+- **Language**: TypeScript with strict type checking
+- **Database**: PostgreSQL 15 for primary data
+- **Cache**: Redis 7 for session and application caching
+- **Message Queue**: RabbitMQ for asynchronous processing
+
+#### DevOps and Infrastructure
+- **Cloud Provider**: AWS with multi-AZ deployment
+- **Containerization**: Docker with Alpine Linux base images
+- **Orchestration**: Kubernetes with Helm charts
+- **CI/CD**: GitHub Actions with automated testing
+- **Monitoring**: New Relic + CloudWatch + Grafana
+
+### Data Architecture
+
+#### Database Design
+- **Primary Database**: PostgreSQL with read replicas
+- **Data Warehouse**: Amazon Redshift for analytics
+- **Search Engine**: Elasticsearch for full-text search
+- **File Storage**: Amazon S3 with CDN (CloudFront)
+- **Backup Strategy**: Automated daily backups with 30-day retention
+
+#### Data Flow
+1. **Ingestion**: API endpoints and batch processing
+2. **Processing**: Event-driven microservices architecture
+3. **Storage**: Normalized data in PostgreSQL
+4. **Analytics**: ETL pipelines to Redshift
+5. **Reporting**: Real-time dashboards and scheduled reports
+
+### Security Architecture
+
+#### Authentication and Authorization
+- **Identity Provider**: Auth0 with Multi-Factor Authentication
+- **API Security**: JWT tokens with refresh token rotation
+- **Role-Based Access**: Fine-grained permissions system
+- **Session Management**: Secure cookie handling with HTTPS
+- **Password Policy**: bcrypt hashing with salt rounds
+
+#### Network Security
+- **VPC**: Private subnets for application servers
+- **Load Balancer**: Application Load Balancer with SSL termination
+- **Firewall**: Security groups with least privilege access
+- **DDoS Protection**: CloudFlare enterprise plan
+- **VPN Access**: Site-to-site VPN for remote development
+
+### Performance and Scalability
+
+#### Scalability Strategy
+- **Horizontal Scaling**: Auto-scaling groups based on metrics
+- **Database Scaling**: Read replicas and connection pooling
+- **Caching Strategy**: Multi-layer caching (Redis, CDN, application)
+- **Load Balancing**: Geographic load balancing with health checks
+- **Queue Management**: Dead letter queues and retry mechanisms
+
+#### Performance Monitoring
+- **Application Metrics**: Custom metrics with StatsD
+- **Infrastructure Metrics**: CloudWatch with custom dashboards
+- **Error Tracking**: Sentry for error monitoring and alerting
+- **Performance Profiling**: New Relic APM with code-level insights
+- **Log Management**: Centralized logging with ELK stack
+
+### Development Standards
+
+#### Code Quality
+- **Linting**: ESLint + Prettier for consistent formatting
+- **Type Safety**: 100% TypeScript coverage with strict mode
+- **Testing**: 90%+ code coverage requirement
+- **Code Review**: Required approval from senior developers
+- **Documentation**: JSDoc comments and README files
+
+#### API Standards
+- **REST APIs**: OpenAPI 3.0 specification
+- **GraphQL**: Apollo Server with schema-first design
+- **Rate Limiting**: Per-user and per-endpoint limits
+- **Versioning**: Semantic versioning with backward compatibility
+- **Error Handling**: Consistent error response format
+
+### Disaster Recovery
+
+#### Backup and Recovery
+- **Database Backups**: Point-in-time recovery capability
+- **File Backups**: Cross-region replication of S3 data
+- **Configuration Backup**: Infrastructure as Code with Terraform
+- **Recovery Testing**: Monthly disaster recovery drills
+- **RTO/RPO**: 4-hour Recovery Time, 1-hour Recovery Point
+
+#### Business Continuity
+- **Failover Strategy**: Automated failover to backup region
+- **Data Synchronization**: Real-time data replication
+- **Service Dependencies**: Circuit breaker pattern implementation
+- **Communication Plan**: Automated status page updates
+- **Staff Preparedness**: On-call rotation with escalation procedures
+
+### Integration Architecture
+
+#### Third-Party Integrations
+- **Payment Processing**: Stripe and PayPal with webhooks
+- **Email Service**: SendGrid with template management
+- **Analytics**: Google Analytics 4 and custom event tracking
+- **Customer Support**: Zendesk integration with SSO
+- **Monitoring**: PagerDuty for incident management
+
+#### API Management
+- **Gateway**: Kong API Gateway with rate limiting
+- **Documentation**: Postman collections and Swagger UI
+- **Testing**: Automated API testing with Newman
+- **Versioning**: URL versioning with deprecation notices
+- **Security**: OAuth 2.0 and API key management
+
+### Future Technology Roadmap
+
+#### Next 6 Months
+- Migration to React Server Components
+- Implementation of GraphQL Federation
+- Kubernetes service mesh with Istio
+- Advanced monitoring with OpenTelemetry
+
+#### Next 12 Months
+- Edge computing deployment with CloudFlare Workers
+- Machine learning pipeline with MLflow
+- Event sourcing architecture implementation
+- Progressive Web App (PWA) capabilities
+
+Architecture Review Date: January 2025 | Next Review: July 2025

@@ -1,0 +1,100 @@
+# Remote Work Approval Scenarios and Requirements
+
+## If I Work Remotely 3 Days, What Approval Do I Need?
+
+### Standard 3-Day Remote Work (No Additional Approval Required)
+- **Eligibility**: All employees after 90-day probationary period
+- **Schedule**: Any 3 days per week, manager notification required
+- **Requirements**: Maintain productivity metrics, attend required in-person meetings
+- **Equipment**: Company laptop, home internet stipend provided
+- **Communication**: Available during core hours (10 AM - 3 PM)
+
+### Scenarios Requiring Manager Approval
+
+#### Scenario 1: Consecutive Remote Days
+- **If**: Working remotely Monday-Wednesday or Wednesday-Friday
+- **Approval**: Manager approval required weekly
+- **Reason**: Ensure adequate in-person collaboration time
+- **Process**: Submit request via HR portal 1 week in advance
+
+#### Scenario 2: Customer-Facing Roles
+- **If**: Position involves direct customer interaction
+- **Approval**: Department head approval required
+- **Requirements**: Dedicated home office space, professional background
+- **Additional**: Customer service training for remote protocols
+
+#### Scenario 3: New Project Launch
+- **If**: Project launch period (first 2 weeks of new project)
+- **Approval**: Project manager and department head approval
+- **Requirement**: Daily check-ins and progress reports
+- **Exception**: Critical project phases may require full office presence
+
+### If I Need to Work Remotely 4+ Days Per Week
+
+#### Temporary Situations (Up to 3 Months)
+- **Triggers**: Medical reasons, family care, relocation
+- **Approval**: HR and department head approval
+- **Documentation**: Medical certificate or supporting documentation required
+- **Review**: Monthly performance and productivity reviews
+
+#### Permanent Remote Work (Full-time Remote)
+- **Eligibility**: 2+ years with company, excellent performance rating
+- **Approval**: Department head, HR, and C-level executive approval
+- **Process**: 30-day trial period followed by formal review
+- **Requirements**: Dedicated home office, high-speed internet, local time zone
+
+### If I'm Traveling While Working Remotely
+
+#### Domestic Travel (Within Country)
+- **Duration**: Up to 2 weeks, manager notification required
+- **Requirements**: Maintain standard work hours and productivity
+- **Support**: IT help desk available for technical issues
+- **Insurance**: Work-related travel covered under company policy
+
+#### International Travel
+- **Duration**: Up to 1 week, department head approval required
+- **Requirements**: Consider time zone differences, legal compliance
+- **Restrictions**: No access to sensitive data from certain countries
+- **Support**: 24/7 IT support, VPN requirements mandatory
+
+### If Internet or Power Issues Occur at Home
+
+#### Temporary Office Access
+- **Process**: Contact manager and reserve office space same day
+- **Duration**: Until home issues resolved
+- **Support**: Temporary desk assignment, loaner equipment if needed
+
+#### Alternative Arrangements
+- **Co-working Spaces**: $50/day reimbursement for approved spaces
+- **Mobile Hotspot**: Company-provided backup internet solution
+- **Extended Issues**: Hotel business center costs covered for 2+ days
+
+### Performance and Productivity Requirements
+
+#### Metrics Tracking
+- **Productivity**: Must maintain 95% of office-based productivity metrics
+- **Availability**: Response time within 2 hours during core hours
+- **Deliverables**: All deadlines must be met consistently
+- **Quality**: No decrease in work quality or customer satisfaction
+
+#### Review Process
+- **Monthly**: Manager review of remote work effectiveness
+- **Quarterly**: Formal productivity assessment
+- **Annual**: Remote work privilege renewal evaluation
+- **Improvement**: Performance improvement plan if metrics decline
+
+### Technology and Security Requirements
+
+#### Required Equipment
+- **Computer**: Company-issued laptop with security software
+- **Internet**: Minimum 25 Mbps download, 5 Mbps upload speed
+- **Phone**: VoIP access through company system
+- **Security**: VPN connection for all work-related activities
+
+#### Prohibited Activities
+- **Public WiFi**: No company data access on unsecured networks
+- **Shared Devices**: Personal devices cannot access company systems
+- **Data Storage**: No company data on personal cloud storage
+- **Screen Sharing**: Ensure privacy when on video calls
+
+Updated: January 2025

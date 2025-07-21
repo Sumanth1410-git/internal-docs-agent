@@ -1,0 +1,26 @@
+COMMON FORMS AND TEMPLATES DIRECTORY 2025
+
+HR Forms:
+- Vacation Request Form: HR-001
+- Expense Reimbursement: HR-002  
+- Performance Review Template: HR-003
+- Time-off Request: HR-004
+- Equipment Request: HR-005
+
+IT Forms:
+- Software Installation Request: IT-001
+- Access Permission Request: IT-002
+- Technical Support Ticket: IT-003
+- New User Setup: IT-004
+
+Finance Forms:
+- Purchase Order Request: FIN-001
+- Budget Variance Report: FIN-002
+- Invoice Approval: FIN-003
+
+Access: All forms available on company intranet
+Approvals: Electronic signatures required
+Processing Time: 2-5 business days standard
+Questions: Contact respective department
+- Updates: Forms reviewed annually for relevance
+- Feedback on forms can be submitted to HR or Finance

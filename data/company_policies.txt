@@ -1,0 +1,17 @@
+# Company Policies and Procedures
+
+## Remote Work Policy
+Employees can work remotely up to 3 days per week. Remote work requests must be approved by your direct manager.
+
+## Refund Policy
+We offer full refunds within 30 days of purchase. Refunds take 5-7 business days to process.
+
+## Expense Reimbursement
+Submit expense reports through the company portal within 30 days. Include receipts for all expenses over $25.
+
+## Design Asset Requests
+Contact the design team through Slack #design-requests channel. Include project details and deadline.
+
+## IT Support
+For technical issues, create a ticket at help.company.com or email support@company.com.
+Response time: 24-48 hours for non-urgent issues.

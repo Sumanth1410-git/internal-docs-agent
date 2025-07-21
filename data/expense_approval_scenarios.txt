@@ -1,0 +1,109 @@
+# Expense Approval Scenarios and Workflows
+
+## If I Need to Purchase Equipment Over $500
+
+### Standard Equipment Approval Process
+- **Pre-approval Required**: All purchases over $500 must be pre-approved
+- **Approval Chain**: Direct manager → Department head → Finance (if over $2,000)
+- **Timeline**: Allow 3-5 business days for approval process
+- **Documentation**: Business justification, quotes from 2+ vendors required
+
+### Emergency Equipment Purchases
+- **If**: Equipment failure affecting productivity or client delivery
+- **Process**: Manager approval via phone/email, formal paperwork within 24 hours
+- **Limit**: Up to $1,500 for emergency purchases
+- **Follow-up**: Detailed incident report and preventive measures documentation
+
+## If I'm Traveling for Business
+
+### Travel Expense Pre-approval
+- **Required**: All business travel must be pre-approved
+- **Process**: Submit travel request 2 weeks in advance via travel portal
+- **Approval**: Manager for domestic, department head for international
+- **Budget**: $200/day for domestic, $300/day for international travel
+
+### During Travel Scenarios
+
+#### If Flight is Delayed/Cancelled
+- **Hotel Coverage**: Up to $200/night for unexpected overnight stays
+- **Meal Allowance**: Additional $50/day for extended travel days
+- **Process**: Keep all receipts, submit explanation with expense report
+- **Approval**: Automatic for documented airline delays
+
+#### If Client Dinner Exceeds Budget
+- **Standard Limit**: $150 per person for client entertainment
+- **If Exceeded**: Requires manager approval within 48 hours
+- **Maximum**: Up to $250 per person with proper business justification
+- **Documentation**: List of attendees, business purpose, discussion topics
+
+### Reimbursement Scenarios
+
+#### If Receipt is Lost
+- **Under $25**: Signed statement explaining expense acceptable
+- **$25-$75**: Bank/credit card statement plus signed explanation
+- **Over $75**: Vendor can often provide duplicate receipt
+- **Alternative**: Sworn affidavit for essential business expenses
+
+#### If Personal Card Used for Large Business Expense
+- **Immediate Reimbursement**: Available for expenses over $1,000
+- **Process**: Submit receipt within 24 hours, note urgent reimbursement needed
+- **Timeline**: 2-3 business days for direct deposit
+- **Interest**: Company covers credit card interest if payment delayed due to processing
+
+## If I Need Training or Conference Approval
+
+### Conference Attendance (Over $1,500)
+- **Approval Required**: Department head and HR approval
+- **Justification**: Detailed ROI and skills development plan
+- **Timeline**: Submit request 6 weeks in advance
+- **Commitment**: Presentation to team upon return, 6-month retention agreement
+
+### Professional Certification
+- **Coverage**: Up to $2,000 annually per employee
+- **Approval**: Manager approval for work-related certifications
+- **Process**: Pre-approval required, payment upon successful completion
+- **Additional**: Study time and exam time counted as work hours
+
+## If I Need to Hire External Services
+
+### Consulting Services ($5,000+)
+- **Approval Chain**: Department head → C-level executive → Board (if over $25,000)
+- **Requirements**: 3 vendor quotes, detailed scope of work, timeline
+- **Process**: Vendor selection committee for services over $15,000
+- **Contracts**: Legal review required for all consulting agreements
+
+### Software/SaaS Subscriptions
+- **Under $100/month**: Manager approval sufficient
+- **$100-$500/month**: Department head approval required
+- **Over $500/month**: IT security review + C-level approval
+- **Trial Periods**: 30-day trials approved by manager, conversion requires formal approval
+
+## If Expense Report is Rejected
+
+### Common Rejection Reasons
+- **Missing Receipts**: For expenses over $25
+- **Incomplete Information**: Missing business purpose or attendees
+- **Policy Violation**: Expenses outside company guidelines
+- **Late Submission**: Reports submitted over 30 days after expense incurred
+
+### Resolution Process
+- **Automatic Email**: Detailed explanation sent within 24 hours
+- **Resubmission**: Correct and resubmit within 5 business days
+- **Appeal Process**: Escalate to HR if disagreement with policy interpretation
+- **Timeline**: Appeals resolved within 10 business days
+
+## Emergency Expense Scenarios
+
+### If Credit Card is Compromised During Business Travel
+- **Immediate**: Contact company travel support: 1-800-TRAVEL-HELP
+- **Backup**: Emergency company credit card issued within 4 hours
+- **Reimbursement**: Personal expenses covered until card replacement
+- **Documentation**: Fraud report and new expense tracking procedures
+
+### If Major Unexpected Business Expense Occurs
+- **Examples**: Emergency equipment repair, unexpected travel, client crisis response
+- **Process**: Immediate manager notification, verbal approval acceptable
+- **Limit**: Up to $5,000 with manager approval, higher amounts require C-level
+- **Follow-up**: Formal documentation within 48 hours, process improvement plan
+
+Updated: January 2025

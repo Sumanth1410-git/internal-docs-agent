@@ -1,0 +1,62 @@
+# Create .gitignore in your root directory
+cat > .gitignore << 'EOF'
+# Environment Variables (CRITICAL - Don't upload secrets)
+.env
+*.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment (Don't upload venv folder)
+venv/
+env/
+ENV/
+
+# Project-specific directories that shouldn't be uploaded
+cache/
+temp_uploads/
+vectorstore/
+monitoring/
+exports/
+analytics/
+approvals/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+EOF
